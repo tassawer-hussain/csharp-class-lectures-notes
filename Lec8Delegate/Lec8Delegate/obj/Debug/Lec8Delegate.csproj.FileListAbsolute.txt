@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8Delegate\Lec8Delegate\bin\Debug\Lec8Delegate.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8Delegate\Lec8Delegate\bin\Debug\Lec8Delegate.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8Delegate\Lec8Delegate\bin\Debug\Lec8Delegate.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8Delegate\Lec8Delegate\obj\Debug\Lec8Delegate.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8Delegate\Lec8Delegate\obj\Debug\Lec8Delegate.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8Delegate\Lec8Delegate\obj\Debug\Lec8Delegate.pdb

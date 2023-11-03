@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseFunctionInSelect\Lec9LINQuseFunctionInSelect\bin\Debug\Lec9LINQuseFunctionInSelect.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseFunctionInSelect\Lec9LINQuseFunctionInSelect\bin\Debug\Lec9LINQuseFunctionInSelect.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseFunctionInSelect\Lec9LINQuseFunctionInSelect\bin\Debug\Lec9LINQuseFunctionInSelect.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseFunctionInSelect\Lec9LINQuseFunctionInSelect\obj\Debug\Lec9LINQuseFunctionInSelect.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseFunctionInSelect\Lec9LINQuseFunctionInSelect\obj\Debug\Lec9LINQuseFunctionInSelect.pdb

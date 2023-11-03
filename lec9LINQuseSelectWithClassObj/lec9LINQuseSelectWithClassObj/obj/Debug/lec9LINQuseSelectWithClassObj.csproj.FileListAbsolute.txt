@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\lec9LINQuseSelectWithClassObj\lec9LINQuseSelectWithClassObj\bin\Debug\lec9LINQuseSelectWithClassObj.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\lec9LINQuseSelectWithClassObj\lec9LINQuseSelectWithClassObj\bin\Debug\lec9LINQuseSelectWithClassObj.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\lec9LINQuseSelectWithClassObj\lec9LINQuseSelectWithClassObj\bin\Debug\lec9LINQuseSelectWithClassObj.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\lec9LINQuseSelectWithClassObj\lec9LINQuseSelectWithClassObj\obj\Debug\lec9LINQuseSelectWithClassObj.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\lec9LINQuseSelectWithClassObj\lec9LINQuseSelectWithClassObj\obj\Debug\lec9LINQuseSelectWithClassObj.pdb

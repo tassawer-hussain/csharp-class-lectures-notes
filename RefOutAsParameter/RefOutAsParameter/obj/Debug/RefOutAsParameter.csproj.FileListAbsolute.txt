@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\RefOutAsParameter\RefOutAsParameter\bin\Debug\RefOutAsParameter.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\RefOutAsParameter\RefOutAsParameter\bin\Debug\RefOutAsParameter.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\RefOutAsParameter\RefOutAsParameter\bin\Debug\RefOutAsParameter.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\RefOutAsParameter\RefOutAsParameter\obj\Debug\RefOutAsParameter.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\RefOutAsParameter\RefOutAsParameter\obj\Debug\RefOutAsParameter.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\RefOutAsParameter\RefOutAsParameter\obj\Debug\RefOutAsParameter.pdb

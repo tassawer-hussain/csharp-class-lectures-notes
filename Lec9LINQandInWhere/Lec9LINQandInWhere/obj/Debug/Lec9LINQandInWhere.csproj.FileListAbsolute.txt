@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQandInWhere\Lec9LINQandInWhere\bin\Debug\Lec9LINQandInWhere.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQandInWhere\Lec9LINQandInWhere\bin\Debug\Lec9LINQandInWhere.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQandInWhere\Lec9LINQandInWhere\bin\Debug\Lec9LINQandInWhere.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQandInWhere\Lec9LINQandInWhere\obj\Debug\Lec9LINQandInWhere.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQandInWhere\Lec9LINQandInWhere\obj\Debug\Lec9LINQandInWhere.pdb

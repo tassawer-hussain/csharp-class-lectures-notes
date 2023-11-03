@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9ListIntro\Lec9ListIntro\bin\Debug\Lec9ListIntro.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9ListIntro\Lec9ListIntro\bin\Debug\Lec9ListIntro.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9ListIntro\Lec9ListIntro\bin\Debug\Lec9ListIntro.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9ListIntro\Lec9ListIntro\obj\Debug\Lec9ListIntro.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9ListIntro\Lec9ListIntro\obj\Debug\Lec9ListIntro.pdb

@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3DefaultParamInClassMethod\Lec3DefaultParamInClassMethod\bin\Debug\Lec3DefaultParamInClassMethod.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3DefaultParamInClassMethod\Lec3DefaultParamInClassMethod\bin\Debug\Lec3DefaultParamInClassMethod.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3DefaultParamInClassMethod\Lec3DefaultParamInClassMethod\bin\Debug\Lec3DefaultParamInClassMethod.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3DefaultParamInClassMethod\Lec3DefaultParamInClassMethod\obj\Debug\Lec3DefaultParamInClassMethod.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3DefaultParamInClassMethod\Lec3DefaultParamInClassMethod\obj\Debug\Lec3DefaultParamInClassMethod.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3DefaultParamInClassMethod\Lec3DefaultParamInClassMethod\obj\Debug\Lec3DefaultParamInClassMethod.pdb

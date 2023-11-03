@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoin\Lec10LINQjoin\bin\Debug\Lec10LINQjoin.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoin\Lec10LINQjoin\bin\Debug\Lec10LINQjoin.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoin\Lec10LINQjoin\bin\Debug\Lec10LINQjoin.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoin\Lec10LINQjoin\obj\Debug\Lec10LINQjoin.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoin\Lec10LINQjoin\obj\Debug\Lec10LINQjoin.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoin\Lec10LINQjoin\obj\Debug\Lec10LINQjoin.pdb

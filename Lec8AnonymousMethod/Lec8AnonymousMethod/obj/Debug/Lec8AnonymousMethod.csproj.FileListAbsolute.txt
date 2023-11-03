@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8AnonymousMethod\Lec8AnonymousMethod\bin\Debug\Lec8AnonymousMethod.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8AnonymousMethod\Lec8AnonymousMethod\bin\Debug\Lec8AnonymousMethod.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8AnonymousMethod\Lec8AnonymousMethod\bin\Debug\Lec8AnonymousMethod.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8AnonymousMethod\Lec8AnonymousMethod\obj\Debug\Lec8AnonymousMethod.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8AnonymousMethod\Lec8AnonymousMethod\obj\Debug\Lec8AnonymousMethod.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec8AnonymousMethod\Lec8AnonymousMethod\obj\Debug\Lec8AnonymousMethod.pdb

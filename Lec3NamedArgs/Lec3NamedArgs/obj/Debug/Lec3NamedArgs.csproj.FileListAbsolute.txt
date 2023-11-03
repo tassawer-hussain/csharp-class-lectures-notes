@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3NamedArgs\Lec3NamedArgs\bin\Debug\Lec3NamedArgs.exe.config
+C:\Users\Tassawer\documents\visual studio 2013\Projects\Lec3NamedArgs\Lec3NamedArgs\bin\Debug\Lec3NamedArgs.exe
+C:\Users\Tassawer\documents\visual studio 2013\Projects\Lec3NamedArgs\Lec3NamedArgs\bin\Debug\Lec3NamedArgs.pdb
+C:\Users\Tassawer\documents\visual studio 2013\Projects\Lec3NamedArgs\Lec3NamedArgs\obj\Debug\Lec3NamedArgs.csprojResolveAssemblyReference.cache
+C:\Users\Tassawer\documents\visual studio 2013\Projects\Lec3NamedArgs\Lec3NamedArgs\obj\Debug\Lec3NamedArgs.exe
+C:\Users\Tassawer\documents\visual studio 2013\Projects\Lec3NamedArgs\Lec3NamedArgs\obj\Debug\Lec3NamedArgs.pdb

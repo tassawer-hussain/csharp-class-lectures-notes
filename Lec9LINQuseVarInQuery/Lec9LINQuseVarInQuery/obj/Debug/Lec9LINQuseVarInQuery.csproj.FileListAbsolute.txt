@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseVarInQuery\Lec9LINQuseVarInQuery\bin\Debug\Lec9LINQuseVarInQuery.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseVarInQuery\Lec9LINQuseVarInQuery\bin\Debug\Lec9LINQuseVarInQuery.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseVarInQuery\Lec9LINQuseVarInQuery\bin\Debug\Lec9LINQuseVarInQuery.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseVarInQuery\Lec9LINQuseVarInQuery\obj\Debug\Lec9LINQuseVarInQuery.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQuseVarInQuery\Lec9LINQuseVarInQuery\obj\Debug\Lec9LINQuseVarInQuery.pdb

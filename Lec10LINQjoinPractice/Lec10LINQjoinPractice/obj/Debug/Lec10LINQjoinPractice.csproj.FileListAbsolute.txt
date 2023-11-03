@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoinPractice\Lec10LINQjoinPractice\bin\Debug\Lec10LINQjoinPractice.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoinPractice\Lec10LINQjoinPractice\bin\Debug\Lec10LINQjoinPractice.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoinPractice\Lec10LINQjoinPractice\bin\Debug\Lec10LINQjoinPractice.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoinPractice\Lec10LINQjoinPractice\obj\Debug\Lec10LINQjoinPractice.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoinPractice\Lec10LINQjoinPractice\obj\Debug\Lec10LINQjoinPractice.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec10LINQjoinPractice\Lec10LINQjoinPractice\obj\Debug\Lec10LINQjoinPractice.pdb

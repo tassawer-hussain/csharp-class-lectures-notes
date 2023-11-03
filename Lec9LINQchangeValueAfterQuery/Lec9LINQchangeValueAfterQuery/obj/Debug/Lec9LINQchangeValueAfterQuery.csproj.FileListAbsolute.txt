@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQchangeValueAfterQuery\Lec9LINQchangeValueAfterQuery\bin\Debug\Lec9LINQchangeValueAfterQuery.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQchangeValueAfterQuery\Lec9LINQchangeValueAfterQuery\bin\Debug\Lec9LINQchangeValueAfterQuery.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQchangeValueAfterQuery\Lec9LINQchangeValueAfterQuery\bin\Debug\Lec9LINQchangeValueAfterQuery.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQchangeValueAfterQuery\Lec9LINQchangeValueAfterQuery\obj\Debug\Lec9LINQchangeValueAfterQuery.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQchangeValueAfterQuery\Lec9LINQchangeValueAfterQuery\obj\Debug\Lec9LINQchangeValueAfterQuery.pdb

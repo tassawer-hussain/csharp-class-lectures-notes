@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQselectAndWhere\Lec9LINQselectAndWhere\bin\Debug\Lec9LINQselectAndWhere.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQselectAndWhere\Lec9LINQselectAndWhere\bin\Debug\Lec9LINQselectAndWhere.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQselectAndWhere\Lec9LINQselectAndWhere\bin\Debug\Lec9LINQselectAndWhere.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQselectAndWhere\Lec9LINQselectAndWhere\obj\Debug\Lec9LINQselectAndWhere.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQselectAndWhere\Lec9LINQselectAndWhere\obj\Debug\Lec9LINQselectAndWhere.pdb

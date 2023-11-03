@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQwhereFilter\Lec9LINQwhereFilter\bin\Debug\Lec9LINQwhereFilter.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQwhereFilter\Lec9LINQwhereFilter\bin\Debug\Lec9LINQwhereFilter.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQwhereFilter\Lec9LINQwhereFilter\bin\Debug\Lec9LINQwhereFilter.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQwhereFilter\Lec9LINQwhereFilter\obj\Debug\Lec9LINQwhereFilter.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQwhereFilter\Lec9LINQwhereFilter\obj\Debug\Lec9LINQwhereFilter.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec9LINQwhereFilter\Lec9LINQwhereFilter\obj\Debug\Lec9LINQwhereFilter.pdb

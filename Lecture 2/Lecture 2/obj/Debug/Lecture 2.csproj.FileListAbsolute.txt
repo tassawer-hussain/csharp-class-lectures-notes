@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lecture 2\Lecture 2\bin\Debug\Lecture 2.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lecture 2\Lecture 2\bin\Debug\Lecture 2.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lecture 2\Lecture 2\bin\Debug\Lecture 2.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lecture 2\Lecture 2\obj\Debug\Lecture 2.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lecture 2\Lecture 2\obj\Debug\Lecture 2.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lecture 2\Lecture 2\obj\Debug\Lecture 2.pdb

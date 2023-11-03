@@ -1,0 +1,6 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3BoxingUnboxing\Lec3BoxingUnboxing\bin\Debug\Lec3BoxingUnboxing.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3BoxingUnboxing\Lec3BoxingUnboxing\bin\Debug\Lec3BoxingUnboxing.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3BoxingUnboxing\Lec3BoxingUnboxing\bin\Debug\Lec3BoxingUnboxing.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3BoxingUnboxing\Lec3BoxingUnboxing\obj\Debug\Lec3BoxingUnboxing.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3BoxingUnboxing\Lec3BoxingUnboxing\obj\Debug\Lec3BoxingUnboxing.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\Lec3BoxingUnboxing\Lec3BoxingUnboxing\obj\Debug\Lec3BoxingUnboxing.pdb
